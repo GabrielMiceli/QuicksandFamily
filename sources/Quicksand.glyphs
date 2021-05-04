@@ -1,8 +1,5 @@
 {
 .appVersion = "1352";
-DisplayStrings = (
-"HH9,9HH"
-);
 classes = (
 {
 automatic = 1;
@@ -30412,7 +30409,7 @@ unicode = 0038;
 },
 {
 glyphname = nine;
-lastChange = "2021-04-29 16:30:07 +0000";
+lastChange = "2021-04-29 21:25:17 +0000";
 layers = (
 {
 layerId = "8816CCA3-DDF9-4C51-BD56-64EE3675A105";
@@ -55660,9 +55657,11 @@ one = -40;
 };
 "@MMK_L_quoteleft" = {
 four = -40;
+nine = -20;
 };
 "@MMK_L_quoteright" = {
 four = -60;
+nine = -40;
 six = -50;
 };
 "@MMK_L_r" = {
@@ -56395,6 +56394,7 @@ four = -40;
 };
 "@MMK_L_quoteright" = {
 four = -60;
+nine = -20;
 six = -40;
 };
 "@MMK_L_quotesinglbase" = {
