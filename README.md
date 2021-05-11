@@ -3,7 +3,14 @@ Quicksand Font Family
 
 Quicksand is a sans serif typeface designed by Andrew Paglinawan in 2008 using geometric shapes as it's core foundation. It is designed for display purposes but legible enough to use in small sizes as well. Quicksand Family is available in three styles which are Light, Regular and Bold including true italics for each weight.
 
-ChangeLog
+## How to build the font
+Go to you local Quicksand clone, in the source directory:
+$ cd path/to/local/directory/sources
+
+And run from terminal:
+$ gftools builder Quicksand.glyphs
+
+## ChangeLog
 2013 October 21 (Andrew Paglinawan) Version 2.0
 - Completely re-drawn from scratch
 - Increased x-Height from 500 to 515 for better legibility
@@ -19,8 +26,7 @@ ChangeLog
 2008 October 12 (Andrew Paglinawan) Version 1.0
 - First public release
 
-Acknowledgements
-========================
+## Acknowledgements
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
