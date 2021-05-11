@@ -1,5 +1,5 @@
 {
-.appVersion = "3081";
+.appVersion = "3083";
 classes = (
 {
 automatic = 1;
@@ -185,26 +185,6 @@ value = 0;
 }
 );
 descender = -200;
-guideLines = (
-{
-position = "{583, 610}";
-},
-{
-position = "{708, 812}";
-},
-{
-position = "{98, -141}";
-},
-{
-position = "{350, -80}";
-},
-{
-position = "{31, 353}";
-},
-{
-position = "{30, 313}";
-}
-);
 id = "254266E2-2911-423D-9D37-8CC6105656EE";
 weight = Light;
 weightValue = 300;
@@ -6147,7 +6127,7 @@ nodes = (
 );
 }
 );
-width = 523;
+width = 527;
 }
 );
 leftMetricsKey = H;
@@ -54857,9 +54837,11 @@ one = -40;
 };
 "@MMK_L_quoteleft" = {
 four = -40;
+nine = -40;
 };
 "@MMK_L_quoteright" = {
 four = -60;
+nine = -40;
 six = -50;
 };
 "@MMK_L_r" = {
@@ -55589,9 +55571,11 @@ one = -50;
 };
 "@MMK_L_quoteleft" = {
 four = -40;
+nine = -20;
 };
 "@MMK_L_quoteright" = {
 four = -60;
+nine = -20;
 six = -40;
 };
 "@MMK_L_quotesinglbase" = {
@@ -55876,5 +55860,5 @@ tH = "66";
 };
 };
 versionMajor = 3;
-versionMinor = 5;
+versionMinor = 6;
 }
